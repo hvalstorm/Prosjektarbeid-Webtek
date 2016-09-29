@@ -1,0 +1,8 @@
+body{
+	width: 600px;
+	font-family: 'roboto', 'helvetica', serif;
+	margin: auto;
+}
+ li {
+ 	margin: 15px 0;
+}
