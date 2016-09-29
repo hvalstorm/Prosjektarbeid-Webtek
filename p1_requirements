@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+	<head>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet"> 
+	<meta charset="utf-8">
+	<title>P1 Project requirements</title>
+	<link rel="stylesheet" href="../Documents/css/style.css">
+	</head>
+	<body>
+		<h1>P1 Project requirements</h1>
+		<h2>Albert, Taran, Marius and Eivind</h2>
+		<p>Our client is Vadsø Filmklubb, and our contact person is Lotte Ruge. They show movies on mondays in Kooperativet in Vadsø. </p>
+		<h>
+		<h2>Purpose and goals</h2>
+		<p>The goal of the website is to to reach out to new members, to provide information on upcoming events and movie screenings. </p>
+		<h2> Intended Audience </h2>
+		<p>The typical user of the website is the members of Vadsø filmklubb. But the website will as well aim to give potential new members information about the film club and 
+		<h2>
+
+       Content of the Website
+
+   		</h2>
+
+   		<ul>
+
+       		<li>"About"</li>
+
+           Here we will have some basic information about Vadsø Filmklubb. This will mainly contain what they do, how they do it, their main audience and information the founders and current managers of the club.
+
+       		<li>"Contact"</li>
+
+           This will contain the contact information of key members of the club. Such as phone numbers and e-mail addresses so that people seeking membership, current members and the people in charge of the locations where they screen the movies, can get in touch if they have questions or suggestions and so on.
+
+       		<li>"Homepage"</li>
+
+           Here we will have the latest news and other interesting information and reminders to members of Vadsø Filmklubb.
+
+       		<li>"Events Schedule"</li>
+
+           This is where the users can check the date, time and location of upcoming events. Here we plan on having relevant pictures to each event and a link to a dedicated page for that specific event.
+
+       		<li>"Dedicated Pages for each Event"</li>
+
+           As mentioned each event will have a dedicated page. This page will contain more information about the film they are screening, more pictures and links to trailer or other relevant pages outside of our website.
+
+       		<li>"Membership"</li>
+
+           This page will contain all necessary information for people seeking membership, such as pricing for different membership plans.
+
+   </ul>
+
+		
+
+	</body>
